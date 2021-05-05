@@ -41178,7 +41178,7 @@ var App = function App() {
     variant: "contained",
     color: "primary",
     size: "small"
-  }, "Add New"), "Hello World");
+  }, "Add New"), react_1["default"].createElement(core_1.Table, null, react_1["default"].createElement(core_1.TableHead, null, react_1["default"].createElement(core_1.TableRow, null, react_1["default"].createElement(core_1.TableCell, null, "test_header"), react_1["default"].createElement(core_1.TableCell, null, "test2_header"), react_1["default"].createElement(core_1.TableCell, null, "test3_header"), react_1["default"].createElement(core_1.TableCell, null, "test4_header"))), react_1["default"].createElement(core_1.TableBody, null, react_1["default"].createElement(core_1.TableRow, null, react_1["default"].createElement(core_1.TableCell, null, "test"), react_1["default"].createElement(core_1.TableCell, null, "test2"), react_1["default"].createElement(core_1.TableCell, null, "test3"), react_1["default"].createElement(core_1.TableCell, null, "test4")))));
 };
 
 if (document.getElementById('app1')) {
